@@ -10,3 +10,5 @@
 - Problem Statement: Understand the Target Customers for the marketing team to plan a strategy.
 - Context: The stakeholder wants to identify the most important shopping groups based on income, age, and the mall shopping score. He wants the ideal number of groups with a label of each. 
 - Objective: Divide mall market into approachable groups. Create subsets on demographics behavioral criteria to better understand the target for marketing activities.
+
+*Check the whole Jupyter Notebook here:* [Full Project](https://github.com/EmaStehr/Machine-Learning-Algorithms/blob/main/ShoppingCustomerSegmentation.ipynb) 
